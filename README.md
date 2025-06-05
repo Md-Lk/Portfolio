@@ -3,3 +3,5 @@
 -	Excel:	ETL samples
 -	Py:	API functional design, Jupyter analysis notebooks
 -	R:	Data visualisation snippets
+
+For now, please contact for specific requests.
