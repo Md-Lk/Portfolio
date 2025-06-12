@@ -1,4 +1,4 @@
-# Info.md
+# Reference.md
 ### Context
 Part of a final assessment for IBM data analysis certification.
 
