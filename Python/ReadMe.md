@@ -9,4 +9,6 @@ The image shows Postman talking to the app to POST into a SQL database (schema i
 
 The development workflow was semi-automated with GenAI (Claude, Gemini), and involved ERDs specified in plantUML along with manual unit testing.
 
+Work was done in a group of 3, with ~80-90% of the part shown developed individually.
+
 ![API in construction](https://github.com/user-attachments/assets/a4699734-ce91-4cdb-9f1e-ad5947aa45dd)
