@@ -16,6 +16,6 @@ Data sources are included under References.md.
 
 ### Pending:
 -	Py: Analysis notebooks
--	R: Machine learning example
+-	R: Machine learning examples
 
 At any time, feel free to contact for specific requests.
