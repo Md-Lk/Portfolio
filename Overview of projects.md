@@ -1,4 +1,8 @@
-# Contents evolving continually (created in June 2025):
+# Contents (evolving since 2025-06):
+
+> ### Highlights:
+> - Pollutant dashboard ([.xlsx](https://github.com/Md-Lk/Portfolio/raw/refs/heads/main/Dashboards/MS%20Excel/Facility%20pollutants%20(NPRI%20data%20excerpt)%20-%20Dashboard%20and%20pivot%20tables.xlsx), [.pdf](https://github.com/Md-Lk/Portfolio/raw/main/Dashboards/MS%20Excel/Facility%20pollutants%20(NPRI%20data%20excerpt)%20-%20Excel%20version.pdf))
+> - Sales performance presentation ([.pdf](https://github.com/Md-Lk/Portfolio/raw/main/Python/OList%20-%20Performance%20analysis%20(presentation).pdf))
 
 ### Current:
 - Dashboards:
